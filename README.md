@@ -72,4 +72,31 @@ This is a demonstration project using sample inventory and order data. It is not
 
 ---
 
+## Screenshots
+
+### Complete Workflow
+![Workflow Overview](screenshots/workflow-overview.png)
+
+### Customer Order Form
+![Customer Order Form](screenshots/customer-order-form.png)
+
+### Order Confirmation
+![Order Confirmation](screenshots/confirmation-form.png)
+
+### Order Confirmation Receipt
+![Order Confirmation](screenshots/order-receipt.png)
+
+
+### Google Sheets — Order Records(Before)
+![Order Records](screenshots/order-sheet-before.png)
+
+### Inventory Update(Before)
+![Inventory Update](screenshots/stock-sheet-before.png)
+
+### Google Sheets — Order Records(After)
+![Order Records](screenshots/order-sheet-after.png)
+
+### Inventory Update(After)
+![Inventory Update](screenshots/stock-sheet-after.png)
+
 **Built with n8n | Personal Automation Project**
